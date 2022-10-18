@@ -1,5 +1,3 @@
- <br>
- 
   # ¡Hola! Soy Stephanie, Software Developer 👋
   
   Soy una persona apasionada por la tecnología y por la inclusión de la mujer en áreas STEAM. Soy estudiante de ingeniería de Sistemas en la <a href="https://www.ucb.edu.bo/">Universidad Católica Boliviana "San Pablo"</a> en La Paz, Bolivia. <br>
