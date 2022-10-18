@@ -2,7 +2,7 @@
   
   Soy una persona apasionada por la tecnología y por la inclusión de la mujer en áreas STEAM. Soy estudiante de ingeniería de Sistemas en la <a href="https://www.ucb.edu.bo/">Universidad Católica Boliviana "San Pablo"</a> en La Paz, Bolivia. <br>
   Fui nombrada [Women Techmakers Ambassador](https://wtm.advocu.com/home/ambassadors/5fbc060a537f05088d009583) y brindo mentorías a otros desarrolladores y a personas que inician su camino en esta área. 
-  Me gusta ser parte del cambio, es por eso que soy directora nacional de [Chicas Programadoras Bolivia](http://www.chicasprogramadoras.club/) y GDSC/GDG Lead Organizer.🚀<br>
+  Me gusta ser parte del cambio, es por eso que soy directora nacional de Chicas Programadoras Bolvia y líder del [Google Developer Student Club](https://gdsc.community.dev/universidad-catolica-boliviana-san-pablo/) en mi Universidad.🚀<br>
   
 Me desempeño en el área de DevOps y Machine Learning desde hace más de un año ✨ 
 
