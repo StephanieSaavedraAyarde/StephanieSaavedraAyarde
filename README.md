@@ -32,4 +32,4 @@ Me desempeño en el área de DevOps y Machine Learning desde hace más de un añ
 ### Sigamos en contacto 📲
 
 - LinkedIn: [https://www.linkedin.com/in/stephanie-saavedra-ayarde/](https://www.linkedin.com/in/stephanie-saavedra-ayarde/)
-- E-mail: stephanie.saavedra.ayarde@gmail.com
+- E-mail: stephanie.saavedra.work@gmail.com
