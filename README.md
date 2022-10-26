@@ -6,7 +6,7 @@
   
 Me desempeño en el área de DevOps y Machine Learning desde hace más de un año ✨ 
 
-- ❤  Viajera y blogger!
+- ❤  Viajera y vlogger!
 - 📚 Fan de aprender y compartir conocimiento en [Instagram](https://www.instagram.com/tefi.rocks/) y en [Medium](https://stephanie-saavedra-ayarde.medium.com/)
 - 🌅 Cuando no estoy codeando, me gusta sacar fotos al cielo.
 
