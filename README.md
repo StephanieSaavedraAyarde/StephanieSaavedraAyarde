@@ -1,14 +1,14 @@
   # ¡Hola! Soy Stephanie, Software Developer 👋
   
-  Soy una persona apasionada por la tecnología y por la inclusión de la mujer en áreas STEAM. Soy estudiante de ingeniería de Sistemas en la <a href="https://www.ucb.edu.bo/">Universidad Católica Boliviana "San Pablo"</a> en La Paz, Bolivia. <br>
-  Fui nombrada [Women Techmakers Ambassador](https://wtm.advocu.com/home/ambassadors/5fbc060a537f05088d009583) y brindo mentorías a otros desarrolladores y a personas que inician su camino en esta área. 
-  Me gusta ser parte del cambio, es por eso que soy directora nacional de Chicas Programadoras Bolvia y GDSC/GDG Lead Organizer en mi ciudad.🚀<br>
+Soy una persona apasionada por la tecnología y por la inclusión de la mujer en áreas STEAM. Soy estudiante de ingeniería de Sistemas en la <a href="https://www.ucb.edu.bo/">Universidad Católica Boliviana "San Pablo"</a> en La Paz, Bolivia. <br>
+Fui nombrada [Women Techmakers Ambassador](https://wtm.advocu.com/home/ambassadors/5fbc060a537f05088d009583) y brindo mentorías a otros desarrolladores y a personas que inician su camino en esta área. 
+Me gusta ser parte del cambio, es por eso que soy directora nacional de Chicas Programadoras Bolvia y GDSC/GDG Lead Organizer en mi ciudad.🚀<br>
   
-Me desempeño en el área de DevOps y Machine Learning desde hace más de un año ✨ 
+Me desempeño en el área de DevOps, Desarrollo Web y Machine Learning desde hace más de dos años ✨ 
 
 - ❤  Viajera y vlogger!
 - 📚 Fan de aprender y compartir conocimiento en [Instagram](https://www.instagram.com/tefi.saavedra/) y en [Medium](https://stephanie-saavedra-ayarde.medium.com/)
-- 🌅 Cuando no estoy codeando, me gusta sacar fotos al cielo.
+- 🌅 Cuando no estoy codeando, me gusta sacar fotos al cielo y leer.
 
 ### Con qué tecnologías trabajo 
 
@@ -21,7 +21,7 @@ Me desempeño en el área de DevOps y Machine Learning desde hace más de un añ
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <br>
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=white" /> 
     <img src="https://img.shields.io/badge/gitlab-292961?style=for-the-badge&logo=gitlab&logoColor=white" /> 
@@ -33,3 +33,10 @@ Me desempeño en el área de DevOps y Machine Learning desde hace más de un añ
 
 - LinkedIn: [https://www.linkedin.com/in/stephanie-saavedra-ayarde/](https://www.linkedin.com/in/stephanie-saavedra-ayarde/)
 - E-mail: stephanie.saavedra.work@gmail.com
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=StephanieSaavedraAyarde&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=StephanieSaavedraAyarde&theme=react&hide_border=false)
+
+[![](https://visitcount.itsvg.in/api?id=StephanieSaavedraAyarde&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
