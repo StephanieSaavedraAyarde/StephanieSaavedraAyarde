@@ -37,6 +37,5 @@ Me desempeño en el área de DevOps, Desarrollo Web y Machine Learning desde hac
 
 ### Algunas estadisiticas de Github 📚
 ![](https://github-readme-stats.vercel.app/api?username=StephanieSaavedraAyarde&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=StephanieSaavedraAyarde&theme=react&hide_border=false)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=StephanieSaavedraAyarde&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
